@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+  }
+  #image1{
+    width:450px;
+    height:450px;
+  }
+  #name{
+    font-size:50px;
+    color:orangered;
+  }
+  
